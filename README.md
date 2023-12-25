@@ -120,4 +120,4 @@ Yashovardhan Singhal
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to contribute and improve this custom Unix system shell!
+
