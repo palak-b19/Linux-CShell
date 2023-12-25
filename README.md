@@ -113,8 +113,8 @@ Enter commands as described in the syntax examples above.
 
 ## Contributors
 
-- [Your Name]
-- [Contributor 2 Name]
+Palak Bhardwaj
+Yashovardhan Singhal
 
 ## License
 
